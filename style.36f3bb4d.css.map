@@ -1,0 +1,1 @@
+{"version":3,"sources":["style.css"],"names":[],"mappings":"AACA,MACE,eACF,CAEA,aACE,eACF","file":"style.36f3bb4d.css","sourceRoot":"..\\src","sourcesContent":["/* styles go here */\r\n.data {\r\n  margin-top: 10px;\r\n}\r\n\r\n.form__group {\r\n  margin-top: 20px;\r\n} \r\n"]}
